@@ -1,1 +1,11 @@
+Xavier Roca - User Story
+
+As a user 
+I want to calculate my BMR (Basal Metabolic Rate) 
+so that I know how many calories I need to lose, maintain or gain weight. 
+
+given my age, gender, height, weight
+when I click "Calculate BMR"
+Then I can see the amount of calories I need a daily. 
+
 
