@@ -1,0 +1,9 @@
+View past entries - Larry Webb
+
+As a user
+I want to be able to my calories lost previously
+So that I can compare entries on a weekly basis to make predictions or to track my progress.
+
+Given I am a registered AND logged in user on the app
+When I select "Data" AND choose to compare entries
+Then I can see my calories lost in a chart with values showing changes in said values from week to week.
