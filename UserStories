@@ -8,4 +8,37 @@ given my age, gender, height, weight
 when I click "Calculate BMR"
 Then I can see the amount of calories I need a daily. 
 
+Jose
+
+As a user 
+I want to input the food and the amount that I am eating. For example, 4 oz of chicken and 1 cup of broccoli, 
+so that I can be sure that I am keeping within my allotted calories for the day based on my height, weight, age, gender. 
+
+
+Given that I am a user of the application, I will be able to input food and amount,
+and it will keep a running total of calories consumed. 
+
+Larry
+
+As a user
+I want to be able to view my calories eaten previously
+So that I can compare entries on a weekly basis to make predictions or to track my progress.
+
+Given I am a registered AND logged in user on the app
+When I select "Data" AND choose to compare entries
+Then I can see my calories lost in a chart with values showing changes in said values from week to week.
+
+Victor
+
+As a user of this app
+I want to see my measurements like waist, arm, chest, thigh, hips
+So that I can check my fat loss progress.
+
+Zachary
+
+As a Customer
+I want to view my total daily calories intake
+So that I can make sure I am not going over my daily target
+
+
 
