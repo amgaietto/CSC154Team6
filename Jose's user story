@@ -1,0 +1,7 @@
+As a user 
+I want to input the food and the amount that I am eating. For example, 4 oz of chicken and 1 cup of broccoli, 
+so that I can be sure that I am keeping within my allotted calories for the day based on my height, weight, age, gender. 
+
+
+Given that I am a user of the application, I will be able to input food and amount,
+and it will keep a running total of calories consumed. 
