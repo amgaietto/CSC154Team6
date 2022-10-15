@@ -1,0 +1,6 @@
+The Login Screen takes user information, such as a profile name and password, to verify the user's identity
+The Main Screen allows users a choice of inputing daily tracking or viewing past inputs
+The daily tracking system keeps count of how many calories the user has consumed, and how much they have burned, as inputed by the user.
+The daily tracking system should also be able to calculate how many calories an inputed meal would be worth by comparing food items to a database
+A tracking system should hold on to daily entries, showing the user progress in a long term diet plan
+thirty concurrent users should be able to access the food calory database with no noticeable system delay
